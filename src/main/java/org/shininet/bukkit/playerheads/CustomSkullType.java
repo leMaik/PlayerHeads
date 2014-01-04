@@ -19,7 +19,7 @@ public enum CustomSkullType {
     SQUID("MHF_Squid", "squidette8"), // Thanks Marc Watson
     SILVERFISH("AlexVMiner"), // Thanks SethBling
     ENDER_DRAGON("KingEndermen", "KingEnderman"), // Thanks SethBling
-    SLIME("HappyHappyMan", "Ex_PS3Zocker"), // Thanks SethBling
+    SLIME("MHF_Slime", "Ex_PS3Zocker"), // Thanks SethBling
     IRON_GOLEM("MHF_Golem", "zippie007"), // Thanks Marc Watson
     MUSHROOM_COW("MHF_MushroomCow", "Mooshroom_Stew"), // Thanks Marc Watson
     BAT("bozzobrain", "coolwhip101"), // Thanks incraftion.com
@@ -36,6 +36,7 @@ public enum CustomSkullType {
     MAGMA_CUBE("MHF_LavaSlime"), // Thanks Marc Watson
     WOLF("Budwolf"),
     CAVE_SPIDER("MHF_CaveSpider"); // Thanks Marc Watson
+    WITHER("MHF_Wither");
 
     private final String owner;
 
